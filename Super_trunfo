@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
     // Declaração das variáveis para a 1ª carta
     char estado1;
     char codigo1[4];
